@@ -1,0 +1,39 @@
+body{
+  color: black;
+}
+.main-title{
+  color: red;
+}
+#main-text{
+  color:green;
+}
+p{
+  color:#E86F2B;
+}
+div{
+  width:200px;
+  height:200px;
+  border:solid 4px #333333;
+  margin:10px;
+  padding:10px;
+  display:inline-block;
+}
+
+  .box{
+    background-color: rgb(134, 43, 232);
+  }
+  p{
+    color: red;
+}
+  .color-demo{
+      background:rgba(51, 93, 158, .5);
+      height:100px;
+      width:150px;
+  }
+  body{
+    background: #efefef;
+}
+
+
+
+  .
