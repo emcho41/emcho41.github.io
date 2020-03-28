@@ -1,0 +1,33 @@
+.main-wrapper{
+display: grid;
+
+/* Columns: */
+grid-template-columns: repeat(12, minmax(0, 1fr));
+
+/* Rows: */
+grid-template-rows: repeat(3, minmax(150px auto))
+}
+
+.navigation{
+  background-color: grey;
+}
+
+.logo{
+  background-color: lightblue;
+}
+
+.aside-right{
+  background-color: lightpink;
+}
+
+.aside-left{
+  background-color: lightgreen;
+}
+
+.main-section{
+background-color: purple;
+}
+
+.main-picture{
+  background-color: teal;
+}
